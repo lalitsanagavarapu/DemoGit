@@ -6,3 +6,5 @@ git config --global user.email a@b.com
 git clone repository-link
 
 git add filename
+
+learning vi as well with this.. 

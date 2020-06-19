@@ -4,3 +4,5 @@ git config --global user.name "Name Surname"
 git config --global user.email a@b.com
 
 git clone repository-link
+
+git add filename
